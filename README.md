@@ -14,7 +14,7 @@
 
 Poker Side Game03 - Insurance
 
-**Project Link:** [Poker Side Game - Insurance](https://bdfdportfolio.tk/Game03_Insurance/)
+**Project Link:** [Poker Side Game - Insurance](https://bdfdportfolio.github.io/SideGame03_Poker_Insurance-Coverage/)
 
 ## Project Description:
 
@@ -29,7 +29,7 @@ Description: Insurance
 **Projects:** Poker Side Bet Game
 
 **Reference:**  
-Demo: <a href="https://bdfdportfolio.tk/Game03_Insurance/">Demo Website Link</a>
+Demo: <a href="https://bdfdportfolio.github.io/SideGame03_Poker_Insurance-Coverage/">Demo Website Link</a>
 
 <div align="center">
 
